@@ -1,0 +1,16 @@
+{
+    "appName": "Gem capture",
+    "description": "Gem capture",
+    "appUrl": "./index.html",
+    "configUrl": "./appconfig.json",
+    "iconUrl": "icon.png",
+    "defaultWidth": 250,
+    "defaultHeight": 250,
+    "minWidth": 100,
+    "minHeight": 50,
+    "maxWidth": 500,
+    "maxHeight": 500,
+    "requestHandlers": [],
+    "activators": [],
+    "permissions": "overlay, pixel"
+}
